@@ -29,10 +29,10 @@ The project is a React-based web application that serves as a blog platform. It 
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
+* Here's a walkthrough of implemented features:
 
-<img src="./assets/video walkthrough.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="./assets/microservices blogpost.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
+     GIF created with Gifcap  
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with Gifcap  
-
+* The following image shows the communication among services
+<img src="./assets/terminals-communication.jps" title='terminals-communication' width='' alt='terminals-communication' />
