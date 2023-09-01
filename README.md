@@ -33,4 +33,4 @@ The project is a React-based web application that serves as a blog platform. It 
 <img src="./blog/assets/microservices blogpost.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 * The following image shows the communication among services
-<img src="./blog/assets/terminals-communication.jps" title='terminals-communication' width='' alt='terminals-communication' />
+<img src="./blog/assets/terminals-communication.jpg" title='terminals-communication' width='' alt='terminals-communication' />
