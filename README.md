@@ -30,9 +30,7 @@ The project is a React-based web application that serves as a blog platform. It 
 ## Video Walkthrough
 
 * Here's a walkthrough of implemented features:
-
 <img src="./assets/microservices blogpost.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
-     GIF created with Gifcap  
 
 * The following image shows the communication among services
 <img src="./assets/terminals-communication.jps" title='terminals-communication' width='' alt='terminals-communication' />
